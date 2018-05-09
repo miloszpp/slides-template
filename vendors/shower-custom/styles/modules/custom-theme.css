@@ -5,7 +5,7 @@ body {
 }
 
 .full .progress {
-    border-color: transparent transparent #f7302f;
+    border-color: transparent transparent #a9a9fa;
 }
 
 /* Hide top badge on each slide */
@@ -16,7 +16,7 @@ body {
 /* -------------------------------------------------------------------------- */
 
 .slide h2 {
-    color: #f7302f;
+    color: #a9a9fa;
     font-weight: normal;
 }
 
@@ -44,7 +44,7 @@ body {
 
 .slide b,
 .slide strong {
-    color: #f7302f;
+    color: #a9a9fa;
 }
 
 .slide a {
@@ -52,7 +52,7 @@ body {
 }
 
 .slide pre mark.important {
-    background-color: #f7302f;
+    background-color: #a9a9fa;
 }
 
 .slide.compact {
